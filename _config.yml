@@ -35,27 +35,9 @@ colors:
   orange:    '#fab125'
   turquoise: '#0fbfcf'
 
-gems:
-  - jekyll-gallery-generator
-
-gallery:
-  # path to the gallery
-  dir: jekyll-site/photos
-  # title for gallery index
-  title: "Photos"
-  # title prefix for gallery page. title=title_prefix+gallery_name
-  title_prefix: "Photos: "
-  # field to control sorting of galleries for the index page
-  # (possible values are: title, date_time, best_image)
-  sort_field: "date_time"
-  # sizes for thumbnails
-  thumbnail_size:
-    x: 400
-    y: 400
-  # custom configuration for individual gallery
-  # best_image is image for the index page (defaults to last image)
-  galleries:
-    Home_Page:
-        bg1.jpg
-
-
+twitter_username:     
+github_username:      david-hui-coding
+linkedin_username:    
+google_plus_username: 109307429158028090998
+facebook_username:    ryan.hui.526
+dribbble_username:
